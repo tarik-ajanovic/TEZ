@@ -1,6 +1,6 @@
 # TEZ Website
 
-TEZ is a website for creating, finding and booking events.
+TEZ is a website for creating, finding, and booking events.
 
 ## Description
 
@@ -19,4 +19,4 @@ The website has two types of users, with different capabilities:
 ## Note
 
 This website was a group project for a university exam.
-Other contributors are: Emin Mulaimović and Tarik Ajanović
+Other contributors are: Emin Mulaimović and Zara Medunjanin
